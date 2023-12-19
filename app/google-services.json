@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179958749651",
+    "project_id": "logininventario-fd1e8",
+    "storage_bucket": "logininventario-fd1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179958749651:android:09f9fea5a88b14fc003726",
+        "android_client_info": {
+          "package_name": "pe.com.idat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmuKEOoiXlA4aWdw7Gu5DTJuBt_oPn2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

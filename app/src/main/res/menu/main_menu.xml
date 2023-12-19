@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ico_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_mantenimiento"
+            android:icon="@drawable/ico_config"
+            android:title="Mantenimiento" />
+        <item
+            android:id="@+id/nav_ingreso"
+            android:icon="@drawable/ico_box"
+            android:title="Ingreso" />
+        <item
+            android:id="@+id/nav_salida"
+            android:icon="@drawable/ico_box_open"
+            android:title="Salida" />
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/ico_box"
+            android:title="Stock" />
+    </group>
+
+
+        <item android:title="Profile">
+
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ico_home"
+                    android:title="Login" />
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ico_config"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ico_box"
+                    android:title="Logout" />
+                </group>
+            </menu>
+
+        </item>
+
+
+
+
+</menu>
